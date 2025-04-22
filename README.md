@@ -60,6 +60,7 @@ cd employee-management-system
 
 ```bash
 cd backend
+ mvn clean install
 ./mvnw spring-boot:run
 ```
 
