@@ -77,8 +77,7 @@ npm start
 
 ## 📸 UI Preview
 
-You can find the screenshots of the system in the `/screenshots/` folder or view them below in the GitHub repo.
-
+You can find the UI preview in the OOAD_Report file
 ---
 
 ## 📦 Requirements
