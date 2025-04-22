@@ -70,7 +70,7 @@ cd backend
 ```bash
 cd ../frontend
 npm install
-npm start
+npm start/npm run dev
 ```
 
 ---
