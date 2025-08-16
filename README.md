@@ -94,7 +94,7 @@ You can find the UI preview in the OOAD_Report file
 
 - Vundela Vipul Kumar Reddy (PES1UG22CS709)  
 - Veluru S L Dheeraj Chowdary (PES1UG22CS684)  
-- Aditya KR (PES2UG22CS244)  
+- Adithya KR (PES2UG22CS244)  
 - Suhas PH (PES2UG22CS588)
 
 ---
